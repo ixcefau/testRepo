@@ -1,4 +1,4 @@
 # testRepo
-asdf
+MOTD:
 
-jolo
+go awai feggits!... just kidding :)
